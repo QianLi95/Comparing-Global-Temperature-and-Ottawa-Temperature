@@ -21,7 +21,7 @@ Make sure to plot the moving average rather than the yearly averages in order to
 
 ## Make observations about the similarities and differences between the world averages and your Ottawa’s averages, as well as overall trends.
 
-   * Question 1: Is your city hotter or cooler on average compared to the global average? Has the difference been consistent over time? 
+   * Question 1: Is your city hotter or cooler on average compared to the global average? Has the difference been consistent        over time? 
    
    * Question 2: How do the changes in Ottawa’s temperatures over time compare to the changes in the global average?  
    
